@@ -18,17 +18,7 @@
         Console.WriteLine($" The average is:  {av}");
 
 
-        //foreach (int el in myArr)
-        //{
 
-        //    Console.Write(el);
-        //}
-        //for (int i = size - 1; i >= 0; i--)
-        //{
-        //    Console.Write(size - 1 > i ? $"{myArr[i]}, " : $"{myArr[i]}, ");
-        //    //Console.WriteLine(myArr[i]);
-
-        //}
 
     }
 }
